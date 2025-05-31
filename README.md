@@ -1,7 +1,10 @@
 # 🇰🇪 **Finance Bill 2025 Rejection Portal**  
 #### *Gen Z meets Civic Tech. Tulikataa!*
 
-> ✊🏾 Powered by vibes, anger, and the Constitution. 
+> ✊🏾 Powered by vibes, anger, and the Constitution.  
+> 🌐 [Live Project ↗](https://finance-bill-2025-rejection-portal.vercel.app/)
+
+---
 
 ## 🚨 What’s Going On?
 
@@ -9,6 +12,8 @@ The **Finance Bill 2025** wants to mess with our rights again —
 This time by trying to delete **Section 59A(1B)** of the Tax Procedures Act.  
 That’s the only thing stopping KRA from snooping into your **M-Pesa data**.  
 Yes, your *"nikusort kesho boss"* texts. Your *OdiBet*, *Chamaa*, *Grocery*... ALL of it.  
+
+---
 
 ## 🧠 What This Site Does
 
@@ -32,7 +37,7 @@ It’s public participation... but Gen Z style 🧢.
 - Click “**Send Email Now**”
 - Your Gmail app opens with:
   - 📨 Subject: `RE: MEMORANDUM OF OBJECTION TO THE FINANCE BILL 2025`
-  - 📄 Body: Ready-made objection based on **Articles 10, 43 & 118** of the Constitution
+  - 📄 Body: Ready-made objection based on **Articles 10, 33, 43 & 118** of the Constitution
 - Add your name (and ID if you want), hit send 🚀
 
 ---
@@ -63,7 +68,8 @@ Pull requests welcome if you’ve got:
 ## 📜 Legal Disclaimer
 
 This platform is **non-partisan**, **open-source**, and built with love for **civic empowerment**.  
-It does NOT store your data. We don’t want your M-Pesa either. 😂
+It does NOT store your data. We don’t want your M-Pesa either. 😂  
+This site is part of civic participation protected by **Article 33 & 118(1)(b)** of the Constitution of Kenya.
 
 ---
 
@@ -76,3 +82,4 @@ Built by digital patriots who got tired of tweeting into the void.
 
 ---
 
+> 🔗 Visit the site: [https://finance-bill-2025-rejection-portal.vercel.app/](https://finance-bill-2025-rejection-portal.vercel.app/)
