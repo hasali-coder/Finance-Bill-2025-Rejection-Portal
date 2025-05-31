@@ -6,6 +6,7 @@ import { Mail, Users, Shield, Megaphone, Zap, Heart } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import KenyanFlag from "@/components/KenyanFlag";
 import EmailPreview from "@/components/EmailPreview";
+import DisclaimerModal from "@/components/DisclaimerModal";
 
 const Index = () => {
   const [isPreviewOpen, setIsPreviewOpen] = useState(false);
@@ -163,6 +164,8 @@ Kenyan Citizen`;
         recipients={emailRecipients}
         body={emailBody}
       />
+
+      <DisclaimerModal />
     </div>
   );
 };
